@@ -1,13 +1,13 @@
-# VibeCheck--Laynesa_Verueco-
+# VibeCheck-David
 
-VibeCheck-Laynesa_Verueco is an app that interacts with a Node.js backend to deliver fortunes, jokes, mood vibes, and a "SMASH" counter. It's designed for learning frontend-backend communication using APIs.
+VibeCheck-David is a app that interacts with a Node.js backend to deliver fortunes, jokes, mood vibes, and a "SMASH" counter. It's designed for learning frontend-backend communication using APIs.
 
 ## Features
 
-- **Fortune🔮** - Get a random developer-friendly fortune.
-- **Joke😂** - Receive a random programming joke.
-- **Mood Vibes😄** - Choose a mood to get a motivational message.
-- **SMASH!💥** - Increment a counter to track "smashes."
+- **Fortune** - Get a random developer-friendly fortune.
+- **Joke** - Receive a random programming joke.
+- **Mood Vibes** - Choose a mood to get a motivational message.
+- **SMASH!** - Increment a counter to track "smashes."
 
 ## Installation and Setup
 
@@ -44,7 +44,7 @@ cd frontend
 
 ## Screenshots
 
-*PASTE SCREENSHOT HERE*
+PASTE SCREENSHOT HERE
 
 ## Project Structure
 
