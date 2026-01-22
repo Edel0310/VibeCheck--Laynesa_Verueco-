@@ -40,7 +40,16 @@ const vibeMap = {
 };
 
 // Smash counter (stored in memory for now)
-let smashes = 0;
+let smashCount = 0;
+
+app.post("/api/smash", (req, res) => {
+  smashCount++;
+  res.json({ smashes: smashCount });
+});
+
+app.get("/api/smashes", (req, res) => {
+  res.json({ smashes: smashCount });
+});
 
 // GET /api/fortune -> returns one random fortune
 app.get("/api/fortune", (req, res) => {
